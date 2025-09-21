@@ -195,6 +195,7 @@ img {  vertical-align: middle; }
   }.card h3 {
     margin: 10px 0 6px;
     color: black;
+	direction:itr;
   }.card p {
     font-size: 0.9rem;
     color: black;
@@ -358,3 +359,4 @@ img {  vertical-align: middle; }
     }
 
 }
+
