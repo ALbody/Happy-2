@@ -184,6 +184,7 @@ img {  vertical-align: middle; }
     transition: transform 0.3s ease;
     color: black;
     padding: 5px;
+	  direction: ltr;
   }.card:hover {
     transform: translateY(-6px);
   }.card img {
@@ -195,7 +196,7 @@ img {  vertical-align: middle; }
   }.card h3 {
     margin: 10px 0 6px;
     color: black;
-	direction:itr;
+	direction: ltr;
   }.card p {
     font-size: 0.9rem;
     color: black;
@@ -359,4 +360,5 @@ img {  vertical-align: middle; }
     }
 
 }
+
 
